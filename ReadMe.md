@@ -15,7 +15,10 @@ It helps manage student records like name, marks, and grades.
 ## 🛠️ Technologies
 
 * Java
-* NetBeans
+* MySQL
+* NetBeans IDE
+* JDBC
+
 
 ## ▶️ How to Run
 
